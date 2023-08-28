@@ -1,8 +1,6 @@
 # Curso de Jest
 
-<img src="https://facebook.github.io/jest/img/opengraph.png" style="display:block;margin:10px auto">
-
-**Material produzido durante o curso de Jest do [Canal Professor Choren](https://www.youtube.com/channel/UCfe7yGDBHsgKxc02yTL8z6A) no Youtube.**
+<img src="https://jestjs.io/pt-BR/img/opengraph.png" style="display:block;margin:10px auto">
 
 # Módulos
 
