@@ -1,0 +1,15 @@
+{
+  "name": "curso_de_jest",
+  "version": "1.0.0",
+  "description": "<img src=\"https://jestjs.io/pt-BR/img/opengraph.png\" style=\"display:block;margin:10px auto\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
