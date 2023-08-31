@@ -1,0 +1,1 @@
+// Curso de JestJS - Módulo II - Asserção toBeNull
