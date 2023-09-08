@@ -11,7 +11,8 @@ describe("Factory of Person", () => {
         expect(factory.getPerson()).toBeNull(); // Não passando nunhum parametro, o resultado/returno tem que ser null/nulo.
     })
 
-    test("passed the invalid parameter admin should return null", () => { // Se eu passar um parametro inválido, ou seja tem que ser resultado/retorno null. 
+    // Se eu passar um parametro inválido, tem que ser resultado/retorno null.
+    test("passed the invalid parameter admin should return null", () => {  
         expect(factory.getPerson("admin")).toBeNull();
     })
 
