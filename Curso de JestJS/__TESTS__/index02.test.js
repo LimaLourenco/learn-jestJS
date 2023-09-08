@@ -8,7 +8,8 @@ describe("Factory of Person", () => {
     // Definindo, quais serão os testes que vou colocar aqui:
     test("Not passing the parameter should return null", () => { // Se eu não passar um parametro, espero retornar null.
 
-        expect(factory.getPerson()).toBeNull(); // Não passando nunhum parametro, o resultado/returno tem que ser null/nulo.
+        // Não passando nunhum parametro, o resultado/returno tem que ser null/nulo.
+        expect(factory.getPerson()).toBeNull(); 
     })
 
     // Se eu passar um parametro inválido, tem que ser resultado/retorno null.
