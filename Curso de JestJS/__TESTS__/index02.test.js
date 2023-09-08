@@ -6,7 +6,7 @@ const { expect, test, describe } = require('@jest/globals');
 
 describe("Factory of Person", () => {
     // Definindo, quais serão os testes que vou colocar aqui:
-    test("Not passing the parameter should return null", () => { // Se eu não passar um parametro, espero tornar null.
+    test("Not passing the parameter should return null", () => { // Se eu não passar um parametro, espero retornar null.
 
         expect(factory.getPerson()).toBeNull(); // Não passando nunhum parametro, o resultado/returno tem que ser null/nulo.
     })
