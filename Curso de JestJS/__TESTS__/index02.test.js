@@ -1,3 +1,5 @@
+// Curso de JestJS - Módulo II - Asserção toBeNull
+
 const PersonFactory = require('../index02');
 
 let factory = new PersonFactory(); // Criando um novo objeto, apartir da minha PersonFactory.

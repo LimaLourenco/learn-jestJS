@@ -1,3 +1,5 @@
+// Curso de JestJS - Módulo II - Asserções toBeTruthy e toBeFalsy 
+
 const average = require('../index05');
 
 const { describe, test, expect } = require('@jest/globals');
