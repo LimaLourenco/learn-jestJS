@@ -3,7 +3,8 @@
 const Person = require("../index01");
 const { expect, test, describe } = require('@jest/globals');
 
-let paulo = new Person("Paulo Reis", "pauloreis@email.com", new Date(1990, 5, 12)); // Instanciando a classe, ou seja criando um novo objeto Pessoa;
+// Instanciando a classe, ou seja criando um novo objeto Pessoa;
+let paulo = new Person("Paulo Reis", "pauloreis@email.com", new Date(1990, 5, 12)); 
 
 let obj_testePaulo = new Person("Paulo Reis", "pauloreis@email.com", new Date(1990, 5, 12));
 
