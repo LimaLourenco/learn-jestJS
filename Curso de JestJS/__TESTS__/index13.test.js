@@ -26,7 +26,7 @@ afterEach(() => {
     gradeTree = 4;
 })
 
-// Depois tudo, vou colocar nulo(Não existe), em todas as variavéis, 
+// Depois de tudo, vou colocar nulo(Não existe), em todas as variavéis, 
 // fazendo com que o JavaScript acabe matando, essas variaveis. 
 afterAll(() => {
     console.log("Depois dos testes")
